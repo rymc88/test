@@ -14,7 +14,7 @@
 * description: Intro to our tutorial cards
 * tags: easy
 
-* url: https://github.com/rymc88/pxt-skillmap-sample/blob/main/tutorials/interface/activity1
+* url: https://github.com/rymc88/test/master/tutorials/interface/activity1
 * imageUrl: 
 
 ## space
