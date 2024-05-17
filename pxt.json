@@ -12,7 +12,7 @@
         "assets.json",
         "skill-map.md",
         "tutorial-info-cache.json",
-        "tutorials/interface/activity1.md"
+        "tutorials/platformer-activity1.md"
     ],
     "testFiles": [
         "test.ts"
